@@ -1,0 +1,4 @@
+WhitelistedUserIds = {
+    1
+}
+return WhitelistedUserIds
