@@ -1,2 +1,0 @@
-# Whitelist
-Whitelist For Scripts
